@@ -34,4 +34,63 @@ Summary:
 • There were 3.0 million jobs in the retail sector in 2019.3
 • There were 310,000 retail businesses as of 1 January 2020.4
 Economic output
+The economic output of the retail sector in 2020 was £97.0 billion, which was 5.2% of the UK’s total economic output.5
+Retail sector economic output fell by 2.5% in 2020 compared to 2019 following the impact of the coronavirus pandemic.
+The economic output of the sector returned to pre-pandemic levels by the end of 2020. Output fell again in the first quarter (Q1) of 2021 to
+1 The retail sector is defined as Standard Industrial Classification (SIC) code 47: businesses engaged in the sale without transformation of new and used goods mainly to the general public for personal or household consumption or utilisation.
+2 In terms of Gross Value Added (GVA). ONS, GDP low level aggregates data, 31 March 2021 (Gross value added, current prices, series KK7F, KKP5)
+3 ONS and NISRA, Business register and employment survey, 2019
+4 Businesses: BEIS, Business population estimates 2020 (data as of 1 January 2020).
+5 In terms of Gross Value Added (GVA). GVA is a measure of economic activity similar to GDP. Briefly, GVA is the contribution of part of the economy, minus costs incurred in production. Source: ONS, GDP low level aggregates data, March 2021 (Gross value added, current prices, KK7F).
+6 Retail sector in the UK
+2.8% below Q1 2019. The pandemic however has had very different impacts across different types of retail stores – discussed further in section 2.
+Source: ONS, GDP Output approach – low level aggregates, 31 March 2021, retrieved 6 May 2021. Series: KLA8, KL74
+Over the past ten years, the retail sector’s economic output has largely followed a similar path to the whole economy.
+The retail sector saw a fall in economic output and then weak growth following the financial crisis and subsequent recession of 2008, until late 2012. In 2013, the sector began to recover and grew strongly from 2014 until late 2016.
+1.3 Employment
+Employment in the retail sector in the UK was around 3.0 million in 2019, 9.3% of the UK total. This was a fall of 11,100 (0.4%) compared to 2018 (over the same period, total employment in the UK grew by 1%).6
+Employment in the retail sector is fairly evenly distributed across most regions and countries of the UK, shown in the following chart.
+London had the lowest proportion of retail employment in 2019 (7.5% of jobs in London were in retail) and Northern Ireland had the highest (11.5%). The South West and North East also had around 11% of employment in retail.
+6 ONS, Business register and employment survey, 2019, UK data tables.
+Retail sector economic output% change in GVA on previous year, quarterly data, UKWholeeconomyRetail sector-25%-20%-15%-10%-5%0%5%10%20062008201020122014201620182020
+7 Commons Library Briefing, 25 May 2021
+Note: Employment estimates includes employees and self-employed workers registered for PAYE or VAT. Northern Ireland includes only employee jobs.
+Source: ONS and NISRA, Business register and employment survey: 2019, accessed 6 May 2021.
+Impact of the pandemic on retail employment
+According to the Centre for Retail Research, an academic-led research institute, 109,407 retail jobs could be affected by retail companies going into administration in 2020.7 This figure is higher than the Centre reported for 2008 following the financial crisis. The Guardian also kept track of job losses announced across a number of high street brands during the course of 2020, the largest being 13,000 redundancies across Arcadia (brands such as Top Shop, Dorothy Perkins and Miss Selfidge) and 12,000 redundancies at Debenhams.8
+As of 31 March 2021, 536,300 retail jobs were on furlough under the Coronavirus Job Retention Scheme, which makes 19% of eligible jobs in the sector.9 Over half of these (56%) were in ‘other specialised stores’ which includes clothing and footwear stores.
+1.4 Businesses
+There were 310,120 retail businesses in UK retail sector as of 1 January 2020, 5.2% of all businesses.10
+7 Centre for Retail Research, Who’s gone bust?, accessed 25 May2021.. Note that some of the business that went into receivership may have recovered, been sold as going concerns but changed their name, or ceased to exist. Therefore, these figures should be used cautiously.
+8 Antonio Voce, Ashley Kirk and Richard Partington, UK coronavirus job losses: the latest data on redundancies and furloughs, The Guardian, last updated 1 December 2020, accessed 6 April 2021.
+9 HMRC, Coronavirus Job Retention Scheme Statistics: 6 May 2021, accessed 18 May 2021.
+10 BEIS, Business population estimates, 2020, Table 6
+Retail employment in the UK% of total region/country employment, 201911.5%10.7%10.6%9.9%9.8%9.7%9.5%9.3%9.3%9.1%9.0%8.6%7.5%Northern IrelandNorth EastSouth WestNorth WestYorks & HumberSouth EastWalesEast MidlandsUKEastScotlandWest MidlandsLondon
+8 Retail sector in the UK
+In common with most other sectors in the economy, small and medium sized enterprises (SMEs) made up over 99% of retail businesses.
+However, the retail sector and the whole economy had differing proportions of businesses in other business size categories.
+• 59% of businesses in the retail sector had 0 employees (single person-led business), compared with 76% in the economy as a whole.
+• 35% of businesses in the retail sector had between 1 and 10 employees, compared with 19% in the whole economy
+• 6% of retail businesses had between 10 and 100 employees, compared with 4% of all businesses.
+Source: BEIS, Business population estimates: 2020
+Businesses by size% businesses in retail sector and whole economy by size, UK, 202059%35%6%<0.5%76%19%4%<0.5%0 employees1-9employees10-99employees100+employeesRetail sectorWhole economy
+9 Commons Library Briefing, 25 May 2021
+2. Retail sales in Great Britain
+In 2020, retail sales in the Great Britain were worth £437 billion, down 0.6% on 2019. For every pound spent in 2020:
+• 41 pence was spent in food shops – a 7% rise on 2019
+• 9 pence was spent in clothing shops (including textiles and footwear) – a 25% fall on 2019
+• 8 pence was spent on automotive fuel – a 25% fall on 2019
+• 8 pence was spent in household goods shops (including electronics and furniture stores) – a 1% rise on 2019
+The remainder was spent in other types of shops, non-specialist shops, or in non-store retailing, such as market stores, catalogues and online-only retailers.11
+Prior to the coronavirus pandemic, the volume of retail sales had been increasing year-on-year since 2013. This followed a period of stalled growth in sales following the financial crisis, between 2008 and 2013.
+The following chart shows how the volume of retail sales has changed over the last two decades (that is, sales adjusted for inflation).12 Only rarely have retail sales fallen in volume terms compared to the previous year since 1997. Average growth in rolling three month periods compared to the previous year was 2.0% between 1997 and 2021.
+Source: ONS, series J5EK.
+11 ONS, Retail sales, pounds data, value, seasonally adjusted data.
+12 ONS, All retail sales including fuel, volume, seasonally adjusted, series J5EK and J5EH.
+Retail sales have increased steadily since 2013Volume of sales, index 2018=100Seasonally adjusted, Great Britain50607080901001101997199920012003200520072009201120132015201720192021
+10 Retail sector in the UK
+Coronavirus pandemic: impact on sales
+At the onset of the Covid-19 pandemic in March 2020, retail sales fell dramatically as lockdown restrictions closed non-essential retail stores.
+Retail sales as a whole recovered to pre-pandemic levels by June 2020 – relatively quickly compared to other sectors such as hospitality and entertainment.13 Sales fell again in January and February 2021 when non-essential retail shut again, however the fall was much less significant than early 2020, suggesting that retailers and consumers had adapted to restrictions.
+Although retail sales overall have broadly returned to pre-pandemic levels, there has been a big difference between the impact on different store types, shown in the chart below.
 """

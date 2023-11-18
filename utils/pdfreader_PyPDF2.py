@@ -1,5 +1,4 @@
 import PyPDF2 as pdf
-import os
 
 class PDFReader():
   def __init__(self, document) -> None:
